@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple_Tic-Tac-Toe_(Kotlin).iml" filepath="$PROJECT_DIR$/.idea/modules/Simple_Tic-Tac-Toe_(Kotlin).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/List/Sum of numbers/Simple_Tic-Tac-Toe_(Kotlin).Topics-List-Sum_of_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/List/Sum of numbers/Simple_Tic-Tac-Toe_(Kotlin).Topics-List-Sum_of_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/List/Sum of numbers/Simple_Tic-Tac-Toe_(Kotlin).Topics-List-Sum_of_numbers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/List/Sum of numbers/Simple_Tic-Tac-Toe_(Kotlin).Topics-List-Sum_of_numbers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/List/Sum of numbers/Simple_Tic-Tac-Toe_(Kotlin).Topics-List-Sum_of_numbers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/List/Sum of numbers/Simple_Tic-Tac-Toe_(Kotlin).Topics-List-Sum_of_numbers.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/List/Theory/Simple_Tic-Tac-Toe_(Kotlin).Topics-List-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/List/Theory/Simple_Tic-Tac-Toe_(Kotlin).Topics-List-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/List/Theory/Simple_Tic-Tac-Toe_(Kotlin).Topics-List-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/List/Theory/Simple_Tic-Tac-Toe_(Kotlin).Topics-List-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/List/Theory/Simple_Tic-Tac-Toe_(Kotlin).Topics-List-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/List/Theory/Simple_Tic-Tac-Toe_(Kotlin).Topics-List-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Tic-Tac-Toe_(Kotlin).util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Tic-Tac-Toe_(Kotlin).util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Tic-Tac-Toe_(Kotlin).util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Tic-Tac-Toe_(Kotlin).util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Tic-Tac-Toe_(Kotlin).util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Tic-Tac-Toe_(Kotlin).util.test.iml" />
+    </modules>
+  </component>
+</project>
